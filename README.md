@@ -21,5 +21,5 @@
 - [x] and
 - [ ] and
 
-If you want to know more about markdown text visit [here](https://help.github.com/categories/writing-on-github/).
+If you want to know more about Markdown, visit [here](https://help.github.com/categories/writing-on-github/).
 Happy coding :)
